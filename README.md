@@ -2,8 +2,6 @@
 ## Legends of Valor
 ---------------------------------------------------------------------------
 Nirbhay Malhotra
-nmalhotr@bu.edu
-U42321017
 
 Java version : 
 2.System Information 
