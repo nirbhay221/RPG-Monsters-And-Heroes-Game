@@ -2,13 +2,6 @@
 ---------------------------------------------------------------------------
 Nirbhay Malhotra
 
-Java version : 
-2.System Information 
-Processor	Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, 2601 Mhz, 2 Core(s), 4 Logical Processor(s)
-Windows 10 
-java version "1.8.0_151"
-Java(TM) SE Runtime Environment (build 1.8.0_151-b12)
-Java HotSpot(TM) 64-Bit Server VM (build 25.151-b12, mixed mode)
 ## Files
 ---------------------------------------------------------------------------
 1. Armor  - Armor class contains market armor arraylist and attributes necessary for creating the armor class . It contains Initialize armor inventory method , choose armor and market armor methods to populate the inventory of the heroes and market .
